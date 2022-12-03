@@ -11,4 +11,4 @@ For challenge three, I added javascript code to the starter code that was given 
 # Links
 Repository: https://github.com/DejahHarris/3-Password-Generator
 
-Deployed site: 
+Deployed site: https://dejahharris.github.io/3-Password-Generator/
